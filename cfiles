@@ -9,3 +9,14 @@ int d = a+b+c;
 printf("Addition of three numbers is = %d"&d);
 getch();
 }
+
+//Writing a new program*//
+main() {
+int a[10];
+int i=1;
+for(i=0; i<=10; i++)
+{
+printf("/t %d",i);
+}
+getch();
+}
